@@ -1,0 +1,177 @@
+2020-08-13 13:23:29.026 [main] [:] INFO  com.multidruid.demo.DemoApplication - Starting DemoApplication on localhost.localdomain with PID 3788 (/data/springboot2f/multidruid/target/classes started by liuhongdi in /data/springboot2f/multidruid) 
+2020-08-13 13:23:29.036 [main] [:] INFO  com.multidruid.demo.DemoApplication - No active profile set, falling back to default profiles: default 
+2020-08-13 13:23:30.157 [main] [:] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http) 
+2020-08-13 13:23:30.167 [main] [:] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"] 
+2020-08-13 13:23:30.169 [main] [:] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat] 
+2020-08-13 13:23:30.170 [main] [:] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37] 
+2020-08-13 13:23:30.243 [main] [:] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext 
+2020-08-13 13:23:30.243 [main] [:] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1155 ms 
+2020-08-13 13:23:30.392 [main] [:] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat] 
+2020-08-13 13:23:30.412 [main] [:] INFO  org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled. 
+2020-08-13 13:24:19.551 [main] [:] INFO  com.multidruid.demo.DemoApplication - Starting DemoApplication on localhost.localdomain with PID 3868 (/data/springboot2f/multidruid/target/classes started by liuhongdi in /data/springboot2f/multidruid) 
+2020-08-13 13:24:19.568 [main] [:] INFO  com.multidruid.demo.DemoApplication - No active profile set, falling back to default profiles: default 
+2020-08-13 13:24:20.770 [main] [:] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http) 
+2020-08-13 13:24:20.777 [main] [:] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"] 
+2020-08-13 13:24:20.778 [main] [:] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat] 
+2020-08-13 13:24:20.778 [main] [:] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37] 
+2020-08-13 13:24:20.835 [main] [:] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext 
+2020-08-13 13:24:20.835 [main] [:] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1157 ms 
+2020-08-13 13:24:21.243 [main] [:] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor' 
+2020-08-13 13:24:21.662 [main] [:] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"] 
+2020-08-13 13:24:21.691 [main] [:] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '' 
+2020-08-13 13:24:21.703 [main] [:] INFO  com.multidruid.demo.DemoApplication - Started DemoApplication in 2.982 seconds (JVM running for 5.359) 
+2020-08-13 13:24:41.403 [http-nio-8080-exec-1] [:] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet' 
+2020-08-13 13:24:41.408 [http-nio-8080-exec-1] [FrameworkServlet.java:525] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet' 
+2020-08-13 13:24:41.434 [http-nio-8080-exec-1] [FrameworkServlet.java:547] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 24 ms 
+2020-08-13 13:28:45.085 [SpringContextShutdownHook] [:] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor' 
+2020-08-13 13:28:53.916 [main] [:] INFO  com.multidruid.demo.DemoApplication - Starting DemoApplication on localhost.localdomain with PID 4204 (/data/springboot2f/multidruid/target/classes started by liuhongdi in /data/springboot2f/multidruid) 
+2020-08-13 13:28:53.931 [main] [:] INFO  com.multidruid.demo.DemoApplication - No active profile set, falling back to default profiles: default 
+2020-08-13 13:28:55.621 [main] [:] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http) 
+2020-08-13 13:28:55.631 [main] [:] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"] 
+2020-08-13 13:28:55.633 [main] [:] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat] 
+2020-08-13 13:28:55.633 [main] [:] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37] 
+2020-08-13 13:28:55.733 [main] [:] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext 
+2020-08-13 13:28:55.734 [main] [:] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1728 ms 
+2020-08-13 13:28:56.119 [main] [:] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat] 
+2020-08-13 13:28:56.136 [main] [:] INFO  org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled. 
+2020-08-13 13:29:13.530 [main] [:] INFO  com.multidruid.demo.DemoApplication - Starting DemoApplication on localhost.localdomain with PID 4296 (/data/springboot2f/multidruid/target/classes started by liuhongdi in /data/springboot2f/multidruid) 
+2020-08-13 13:29:13.540 [main] [:] INFO  com.multidruid.demo.DemoApplication - No active profile set, falling back to default profiles: default 
+2020-08-13 13:29:14.779 [main] [:] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http) 
+2020-08-13 13:29:14.797 [main] [:] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"] 
+2020-08-13 13:29:14.797 [main] [:] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat] 
+2020-08-13 13:29:14.798 [main] [:] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37] 
+2020-08-13 13:29:14.873 [main] [:] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext 
+2020-08-13 13:29:14.873 [main] [:] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1287 ms 
+2020-08-13 13:29:15.241 [main] [:] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat] 
+2020-08-13 13:29:15.260 [main] [:] INFO  org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled. 
+2020-08-13 13:30:29.511 [main] [:] INFO  com.multidruid.demo.DemoApplication - Starting DemoApplication on localhost.localdomain with PID 4363 (/data/springboot2f/multidruid/target/classes started by liuhongdi in /data/springboot2f/multidruid) 
+2020-08-13 13:30:29.529 [main] [:] INFO  com.multidruid.demo.DemoApplication - No active profile set, falling back to default profiles: default 
+2020-08-13 13:30:30.606 [main] [:] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http) 
+2020-08-13 13:30:30.614 [main] [:] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"] 
+2020-08-13 13:30:30.615 [main] [:] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat] 
+2020-08-13 13:30:30.615 [main] [:] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37] 
+2020-08-13 13:30:30.669 [main] [:] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext 
+2020-08-13 13:30:30.669 [main] [:] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1074 ms 
+2020-08-13 13:30:31.094 [main] [:] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor' 
+2020-08-13 13:30:31.511 [main] [:] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"] 
+2020-08-13 13:30:31.529 [main] [:] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '' 
+2020-08-13 13:30:31.542 [main] [:] INFO  com.multidruid.demo.DemoApplication - Started DemoApplication in 2.714 seconds (JVM running for 4.891) 
+2020-08-13 13:30:35.140 [http-nio-8080-exec-1] [:] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet' 
+2020-08-13 13:30:35.141 [http-nio-8080-exec-1] [FrameworkServlet.java:525] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet' 
+2020-08-13 13:30:35.154 [http-nio-8080-exec-1] [FrameworkServlet.java:547] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 13 ms 
+2020-08-13 13:31:41.317 [SpringContextShutdownHook] [:] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor' 
+2020-08-13 13:31:47.505 [main] [:] INFO  com.multidruid.demo.DemoApplication - Starting DemoApplication on localhost.localdomain with PID 4482 (/data/springboot2f/multidruid/target/classes started by liuhongdi in /data/springboot2f/multidruid) 
+2020-08-13 13:31:47.520 [main] [:] INFO  com.multidruid.demo.DemoApplication - No active profile set, falling back to default profiles: default 
+2020-08-13 13:31:48.878 [main] [:] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http) 
+2020-08-13 13:31:48.886 [main] [:] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"] 
+2020-08-13 13:31:48.887 [main] [:] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat] 
+2020-08-13 13:31:48.887 [main] [:] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37] 
+2020-08-13 13:31:48.944 [main] [:] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext 
+2020-08-13 13:31:48.944 [main] [:] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1381 ms 
+2020-08-13 13:31:49.325 [main] [:] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor' 
+2020-08-13 13:31:49.706 [main] [:] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"] 
+2020-08-13 13:31:49.722 [main] [:] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '' 
+2020-08-13 13:31:49.734 [main] [:] INFO  com.multidruid.demo.DemoApplication - Started DemoApplication in 2.961 seconds (JVM running for 4.969) 
+2020-08-13 13:31:52.782 [http-nio-8080-exec-1] [:] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet' 
+2020-08-13 13:31:52.783 [http-nio-8080-exec-1] [FrameworkServlet.java:525] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet' 
+2020-08-13 13:31:52.802 [http-nio-8080-exec-1] [FrameworkServlet.java:547] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 19 ms 
+2020-08-13 13:31:52.919 [http-nio-8080-exec-1] [:] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting... 
+2020-08-13 13:31:53.819 [http-nio-8080-exec-1] [:] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed. 
+2020-08-13 13:45:51.968 [SpringContextShutdownHook] [:] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor' 
+2020-08-13 13:45:51.971 [SpringContextShutdownHook] [:] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated... 
+2020-08-13 13:45:52.014 [SpringContextShutdownHook] [:] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed. 
+2020-08-13 13:47:40.764 [main] [:] INFO  com.multidruid.demo.DemoApplication - Starting DemoApplication on localhost.localdomain with PID 5089 (/data/springboot2f/multidruid/target/classes started by liuhongdi in /data/springboot2f/multidruid) 
+2020-08-13 13:47:40.779 [main] [:] INFO  com.multidruid.demo.DemoApplication - No active profile set, falling back to default profiles: default 
+2020-08-13 13:47:42.245 [main] [:] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http) 
+2020-08-13 13:47:42.254 [main] [:] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"] 
+2020-08-13 13:47:42.255 [main] [:] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat] 
+2020-08-13 13:47:42.256 [main] [:] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37] 
+2020-08-13 13:47:42.327 [main] [:] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext 
+2020-08-13 13:47:42.328 [main] [:] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1425 ms 
+2020-08-13 13:47:42.849 [main] [:] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor' 
+2020-08-13 13:47:43.223 [main] [:] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"] 
+2020-08-13 13:47:43.241 [main] [:] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '' 
+2020-08-13 13:47:43.253 [main] [:] INFO  com.multidruid.demo.DemoApplication - Started DemoApplication in 3.263 seconds (JVM running for 6.079) 
+2020-08-13 13:48:02.544 [http-nio-8080-exec-1] [:] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet' 
+2020-08-13 13:48:02.545 [http-nio-8080-exec-1] [FrameworkServlet.java:525] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet' 
+2020-08-13 13:48:02.560 [http-nio-8080-exec-1] [FrameworkServlet.java:547] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 14 ms 
+2020-08-13 13:49:01.002 [SpringContextShutdownHook] [:] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor' 
+2020-08-13 13:49:08.277 [main] [:] INFO  com.multidruid.demo.DemoApplication - Starting DemoApplication on localhost.localdomain with PID 5237 (/data/springboot2f/multidruid/target/classes started by liuhongdi in /data/springboot2f/multidruid) 
+2020-08-13 13:49:08.296 [main] [:] INFO  com.multidruid.demo.DemoApplication - No active profile set, falling back to default profiles: default 
+2020-08-13 13:49:09.921 [main] [:] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http) 
+2020-08-13 13:49:09.942 [main] [:] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"] 
+2020-08-13 13:49:09.944 [main] [:] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat] 
+2020-08-13 13:49:09.945 [main] [:] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37] 
+2020-08-13 13:49:10.084 [main] [:] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext 
+2020-08-13 13:49:10.084 [main] [:] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1665 ms 
+2020-08-13 13:49:10.629 [main] [:] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor' 
+2020-08-13 13:49:11.005 [main] [:] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"] 
+2020-08-13 13:49:11.023 [main] [:] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '' 
+2020-08-13 13:49:11.036 [main] [:] INFO  com.multidruid.demo.DemoApplication - Started DemoApplication in 3.547 seconds (JVM running for 5.449) 
+2020-08-13 13:49:14.645 [http-nio-8080-exec-1] [:] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet' 
+2020-08-13 13:49:14.645 [http-nio-8080-exec-1] [FrameworkServlet.java:525] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet' 
+2020-08-13 13:49:14.663 [http-nio-8080-exec-1] [FrameworkServlet.java:547] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 16 ms 
+2020-08-13 13:49:14.785 [http-nio-8080-exec-1] [:] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting... 
+2020-08-13 13:49:15.558 [http-nio-8080-exec-1] [:] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed. 
+2020-08-13 14:13:15.586 [SpringContextShutdownHook] [:] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor' 
+2020-08-13 14:13:15.587 [SpringContextShutdownHook] [:] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated... 
+2020-08-13 14:13:15.638 [SpringContextShutdownHook] [:] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed. 
+2020-08-13 14:13:23.969 [main] [:] INFO  com.multidruid.demo.DemoApplication - Starting DemoApplication on localhost.localdomain with PID 5531 (/data/springboot2f/multidruid/target/classes started by liuhongdi in /data/springboot2f/multidruid) 
+2020-08-13 14:13:23.987 [main] [:] INFO  com.multidruid.demo.DemoApplication - No active profile set, falling back to default profiles: default 
+2020-08-13 14:13:25.308 [main] [:] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http) 
+2020-08-13 14:13:25.316 [main] [:] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"] 
+2020-08-13 14:13:25.317 [main] [:] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat] 
+2020-08-13 14:13:25.318 [main] [:] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37] 
+2020-08-13 14:13:25.380 [main] [:] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext 
+2020-08-13 14:13:25.380 [main] [:] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1353 ms 
+2020-08-13 14:13:25.405 [main] [:] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat] 
+2020-08-13 14:13:25.434 [main] [:] INFO  org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled. 
+2020-08-13 14:14:43.293 [main] [:] INFO  com.multidruid.demo.DemoApplication - Starting DemoApplication on localhost.localdomain with PID 5615 (/data/springboot2f/multidruid/target/classes started by liuhongdi in /data/springboot2f/multidruid) 
+2020-08-13 14:14:43.306 [main] [:] INFO  com.multidruid.demo.DemoApplication - No active profile set, falling back to default profiles: default 
+2020-08-13 14:14:45.753 [main] [:] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http) 
+2020-08-13 14:14:45.760 [main] [:] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"] 
+2020-08-13 14:14:45.761 [main] [:] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat] 
+2020-08-13 14:14:45.761 [main] [:] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37] 
+2020-08-13 14:14:45.824 [main] [:] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext 
+2020-08-13 14:14:45.824 [main] [:] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2380 ms 
+2020-08-13 14:14:45.897 [main] [:] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat] 
+2020-08-13 14:14:45.922 [main] [:] INFO  org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled. 
+2020-08-13 14:15:36.637 [main] [:] INFO  com.multidruid.demo.DemoApplication - Starting DemoApplication on localhost.localdomain with PID 5696 (/data/springboot2f/multidruid/target/classes started by liuhongdi in /data/springboot2f/multidruid) 
+2020-08-13 14:15:36.648 [main] [:] INFO  com.multidruid.demo.DemoApplication - No active profile set, falling back to default profiles: default 
+2020-08-13 14:15:37.670 [main] [:] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http) 
+2020-08-13 14:15:37.678 [main] [:] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"] 
+2020-08-13 14:15:37.679 [main] [:] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat] 
+2020-08-13 14:15:37.679 [main] [:] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37] 
+2020-08-13 14:15:37.746 [main] [:] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext 
+2020-08-13 14:15:37.746 [main] [:] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1059 ms 
+2020-08-13 14:15:38.093 [main] [:] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat] 
+2020-08-13 14:15:38.114 [main] [:] INFO  org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled. 
+2020-08-13 14:16:04.058 [main] [:] INFO  com.multidruid.demo.DemoApplication - Starting DemoApplication on localhost.localdomain with PID 5771 (/data/springboot2f/multidruid/target/classes started by liuhongdi in /data/springboot2f/multidruid) 
+2020-08-13 14:16:04.086 [main] [:] INFO  com.multidruid.demo.DemoApplication - No active profile set, falling back to default profiles: default 
+2020-08-13 14:16:05.711 [main] [:] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http) 
+2020-08-13 14:16:05.721 [main] [:] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"] 
+2020-08-13 14:16:05.722 [main] [:] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat] 
+2020-08-13 14:16:05.723 [main] [:] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37] 
+2020-08-13 14:16:05.796 [main] [:] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext 
+2020-08-13 14:16:05.796 [main] [:] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1546 ms 
+2020-08-13 14:16:06.568 [main] [:] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor' 
+2020-08-13 14:16:06.975 [main] [:] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"] 
+2020-08-13 14:16:06.993 [main] [:] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '' 
+2020-08-13 14:16:07.015 [main] [:] INFO  com.multidruid.demo.DemoApplication - Started DemoApplication in 3.444 seconds (JVM running for 5.209) 
+2020-08-13 14:16:12.569 [http-nio-8080-exec-3] [:] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet' 
+2020-08-13 14:16:12.569 [http-nio-8080-exec-3] [FrameworkServlet.java:525] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet' 
+2020-08-13 14:16:12.589 [http-nio-8080-exec-3] [FrameworkServlet.java:547] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 19 ms 
+2020-08-13 14:16:13.627 [http-nio-8080-exec-3] [:] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited 
+2020-08-13 14:16:56.305 [http-nio-8080-exec-9] [:] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-2} inited 
