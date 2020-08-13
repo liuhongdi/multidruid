@@ -7,10 +7,8 @@ import org.mybatis.spring.SqlSessionTemplate;
 import org.mybatis.spring.annotation.MapperScan;
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.boot.context.properties.ConfigurationProperties;
-import org.springframework.boot.jdbc.DataSourceBuilder;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
-import org.springframework.context.annotation.Primary;
 import org.springframework.core.io.support.PathMatchingResourcePatternResolver;
 import org.springframework.jdbc.datasource.DataSourceTransactionManager;
 
@@ -23,7 +21,6 @@ public class OrderdbSourceConfig {
     @Bean
     @ConfigurationProperties(prefix = "spring.datasource.druid.orderdb")
     public DataSource orderdbDataSource() {
-        //return DataSourceBuilder.create().build();
         return DruidDataSourceBuilder.create().build();
     }
 
@@ -31,7 +28,6 @@ public class OrderdbSourceConfig {
     public SqlSessionFactory orderdbSqlSessionFactory(@Qualifier("orderdbDataSource") DataSource dataSource) throws Exception {
         SqlSessionFactoryBean bean = new SqlSessionFactoryBean();
         bean.setDataSource(dataSource);
-        //bean.setMapperLocations(new PathMatchingResourcePatternResolver().getResources("classpath:mapper/orderdb/*.xml"));
         bean.setMapperLocations(new PathMatchingResourcePatternResolver().getResources("classpath:mapper/orderdb/*.xml"));
         return bean.getObject();
     }
